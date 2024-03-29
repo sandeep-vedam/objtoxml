@@ -1,0 +1,11 @@
+{
+  "name": "objtoxml",
+  "version": "1.0.0",
+  "description": "Converts L2 templates to L3 templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep-Vedam",
+  "license": "ISC"
+}
